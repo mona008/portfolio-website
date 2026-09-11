@@ -4,7 +4,7 @@
 
 // Change this to your deployed backend URL when you go live
 // (e.g. "https://your-app.onrender.com/api")
-const API_BASE = "http://localhost:5000/api";
+const API_BASE = "https://portfolio-backend-5oxk.onrender.com/api";
 
 async function loadProfile() {
   try {
